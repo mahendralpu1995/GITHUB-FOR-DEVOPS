@@ -11,7 +11,7 @@ age = int(input("Enter your age: "))
 greet(name)
 
 # Variables
-print("===== USER DETAILS =====")
+print("===== USER details=====")
 print("Name:", name)
 print("Age:", age)
 
