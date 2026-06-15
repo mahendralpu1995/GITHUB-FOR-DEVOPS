@@ -1,0 +1,17 @@
+hendraswami@Mac github-for-devops % history
+  301  git commit -m "mahendra"
+  302  git push 
+  303  /usr/bin/python3 /Users/mahendraswami/Documents/poojadevops/testing.py
+  304  git add .
+  305  git init
+  306  git add .
+  307  git commit -m "mahendra"
+  308  git push
+  309  git remote add origin https://github.com/mahendralpu1995/poojadevops.git
+  310  git push
+  311  git branch -m main
+  312  git push 
+  313  git push -m main branch
+  314  git push -u origin main
+  315  git clone https://github.com/mahendralpu1995/poojadevops.git
+  316  clear
